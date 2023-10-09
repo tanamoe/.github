@@ -27,7 +27,7 @@ Creating a reader and collector-focused book tracking experience.
 ### Deployment projects
 | Repository | URL | Description |
 |------------|-----|-------------|
-| [tomoyo](https://github.com/tanamoe/tomoyo) | https://image.tana.moe | Image processing server |
+| [tomoyo](https://github.com/tanamoe/tomoyo) | https://image.tana.moe | imagor + umami + NGINX |
 | [reina](https://github.com/tanamoe/reina) | | Pocketbase + NGINX |
 | [violet](https://github.com/tanamoe/violet) | https://editor.tana.moe | Ghost + MySQL + NGINX |
 
@@ -35,5 +35,10 @@ Creating a reader and collector-focused book tracking experience.
 | Repository | Description |
 |------------|-------------|
 | [mizuho](https://github.com/tanamoe/mizuho) | Tana.moe helper bot |
-| [azunyan](https://github.com/tanamoe/azunyan) | Music bot
+| [azunyan](https://github.com/tanamoe/azunyan) | Music bot |
+
+### Misc.
+| Repository | Description |
+|------------|-------------|
+| [mayoi](https://github.com/tanamoe/mayoi) | Cronjobs running on Cloudflare Workers |
 </details>
