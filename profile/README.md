@@ -24,17 +24,9 @@ Creating a reader and collector-focused book tracking experience.
 | [shinobu](https://github.com/tanamoe/shinobu) | https://admin.tana.moe/ | Admin front-end |
 | [smol-kikuri](https://github.com/tanamoe/smol-kikuri) | https://lph.truyenbanquyen.com | Release calendar SPA |
 
-### Deployment projects
-| Repository | URL | Description |
-|------------|-----|-------------|
-| [tomoyo](https://github.com/tanamoe/tomoyo) | https://image.tana.moe | imagor + umami + NGINX |
-| [reina](https://github.com/tanamoe/reina) | | Pocketbase + NGINX |
-| [violet](https://github.com/tanamoe/violet) | https://editor.tana.moe | Ghost + MySQL + NGINX |
-
 ### Discord bots
 | Repository | Description |
 |------------|-------------|
-| [mizuho](https://github.com/tanamoe/mizuho) | Tana.moe helper bot |
 | [azunyan](https://github.com/tanamoe/azunyan) | Music bot |
 
 ### Misc.
